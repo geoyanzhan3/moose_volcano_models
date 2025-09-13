@@ -15,7 +15,7 @@ The input files and procedures for running these models can be found in this rep
 [https://github.com/geoyanzhan3/moose_volcano_models/tree/master](https://github.com/geoyanzhan3/moose_volcano_models/tree/master)
 
 ## Getting Started
-1. Install [MOOSE](https://www.mooseframework.org/) by following the [installation guide](https://www.mooseframework.org/getting-started/installation/).
+1. Install [MOOSE](https://www.mooseframework.org/) by following the [installation guide](https://mooseframework.inl.gov/getting_started/installation/index.html).
 2. Clone this repository:
    ```bash
    git clone https://github.com/geoyanzhan3/moose_volcano_models.git
